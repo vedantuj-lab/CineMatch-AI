@@ -1,0 +1,6 @@
+{
+  "name": "CineMatch AI",
+  "description": "Your Next Favorite Movie Starts Here. Intelligent movie discovery with content-based and collaborative recommendation engines, MovieLens dataset, and personalized dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
